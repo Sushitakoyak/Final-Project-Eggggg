@@ -1,12 +1,13 @@
 # Final-Project-Eggggg
-# EGGGGG
-# WenLong Zheng
-# Note: Code written here are not written by me, only using for reference toward the type of game I am creating
+-- EGGGGG
+-- WenLong Zheng
 
-# Credit:
-# https://github.com/Jeepzor/Platformer-tutorial
-# https://www.youtube.com/watch?v=AWGd6T3B2OA
-# https://www.youtube.com/watch?v=XfIDHUyLpQ0
+-- Note: Code written here are not written by me, only using for reference toward the type of game I am creating
+
+--Credit:
+-- https://github.com/Jeepzor/Platformer-tutorial
+-- https://www.youtube.com/watch?v=AWGd6T3B2OA
+-- https://www.youtube.com/watch?v=XfIDHUyLpQ0
 
 
 # main.lua
