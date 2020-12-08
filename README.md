@@ -4,11 +4,17 @@
 
 -- Note: Code written here are not written by me, only using for reference toward the type of game I am creating
 
---Credit:
+-- Link to video:
+-- https://youtu.be/bUH1mRLdBkU
+
+
+-- Credit:
 -- https://github.com/Jeepzor/Platformer-tutorial
 -- https://www.youtube.com/channel/UCcq3KOawHtjyN0ibjL4RzXQ
 -- https://www.youtube.com/watch?v=AWGd6T3B2OA
 -- https://www.youtube.com/watch?v=XfIDHUyLpQ0
+
+
 
 
 # main.lua
