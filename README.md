@@ -6,6 +6,7 @@
 
 --Credit:
 -- https://github.com/Jeepzor/Platformer-tutorial
+-- https://www.youtube.com/channel/UCcq3KOawHtjyN0ibjL4RzXQ
 -- https://www.youtube.com/watch?v=AWGd6T3B2OA
 -- https://www.youtube.com/watch?v=XfIDHUyLpQ0
 
