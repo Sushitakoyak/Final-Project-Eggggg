@@ -176,3 +176,17 @@ end
 function Player:draw()
     love.graphics.rectangle("fill", self.x, self.y, self.width / 2, self.height / 2)
 end
+
+
+--------------------------------------------------------------------------------------------------------
+
+Afterthoughts: 
+
+The overall experience on creating a game was very exciting, however, I was not able to fully understand the coding languages, resulting me to use someone else's code instead. However, I was able to get a gist of what he was doing in the code, and I was very fortunate to find this video. I was very happy with the result because I was able to take out something that I was thinking and code it into VisualStudioCode creating the first phase of the game. I could have went further into the video to create a much better outcome, but the codes are not created by myself and the outcomes later are different from my ideas because it just went from phase one to phase 10 or something, so I ended on phase one of my game. And I was pretty happy with the result. I was never so desperate about the ideas I have because it was just something that I thought of, but creating it was different, it was fun. If I have a higher understanding of the coding language I would definitly create my own game. The thing is that I hated to ask questions, and the result was, limited understandability to the things that I search up on the web. I do not regret the outcome of the final project, but indeed satisfied to create something out of someone else's code. Thank you for this assignment I really enjoyed it.
+
+Ideas of the game satisfied:
+
+Phase 1:
+- Create map
+- Set Background
+- Make character move
